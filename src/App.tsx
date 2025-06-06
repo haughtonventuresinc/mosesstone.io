@@ -91,7 +91,7 @@ function App() {
         {/* Blurred background shapes */}
         <div className="absolute -top-24 -left-24 w-96 h-96 bg-pink-500 opacity-30 rounded-full filter blur-3xl z-0 animate-pulse" />
         <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-blue-500 opacity-30 rounded-full filter blur-3xl z-0 animate-pulse" />
-        <img src="/src/images/profile.jpg" alt="Profile" className="w-32 h-32 rounded-full mb-4 shadow-lg object-cover z-10 border-4 border-white/20" />
+        <img src="/profile.jpg" alt="Profile" className="w-32 h-32 rounded-full mb-4 shadow-lg object-cover z-10 border-4 border-white/20" />
         <h1 className="text-2xl md:text-3xl font-bold text-white mb-2 text-center z-10">Hey, I’m Moses Stone</h1>
         <p className="text-white/80 max-w-2xl text-center mb-2 z-10">
           Artist, producer, DJ. I trade, invest, and create digital products. Welcome to my world.

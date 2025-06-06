@@ -30,7 +30,7 @@ export default function SocialLinks() {
       <div className="absolute -top-24 -left-24 w-96 h-96 bg-pink-500 opacity-30 rounded-full filter blur-3xl z-0 animate-pulse" />
       <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-blue-500 opacity-30 rounded-full filter blur-3xl z-0 animate-pulse" />
       {/* Profile image */}
-      <img src="/src/images/profile.jpg" alt="Profile" className="w-24 h-24 rounded-full mb-4 shadow-lg object-cover z-10 border-4 border-white/20" />
+      <img src="/profile.jpg" alt="Profile" className="w-24 h-24 rounded-full mb-4 shadow-lg object-cover z-10 border-4 border-white/20" />
       <h1 className="text-3xl md:text-4xl font-extrabold text-white mb-4 text-center tracking-tight z-10 drop-shadow-lg">Connect with Me Online</h1>
       <p className="text-white/70 text-center max-w-md mb-8 z-10">Follow me on my socials and stay up to date with music, trading, and more.</p>
       <div className="flex flex-col gap-6 w-full max-w-xs z-10">
